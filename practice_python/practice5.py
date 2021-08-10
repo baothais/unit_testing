@@ -19,6 +19,9 @@ if __name__=="__main__":
         if choose == 2:
             pass
 
+        if choose == 3:
+            pass
+
         choose = int(input("\nEnter your chooses: "))
         print()
     print("EXIT PRACTICE 5".center(50, "="))
